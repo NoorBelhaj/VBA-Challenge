@@ -1,6 +1,7 @@
 Attribute VB_Name = "Module1"
 Sub Ticker()
 
+' First Sub for the Tiker 
 
     Dim Row, NextRow, TotalRecords As Integer
    
